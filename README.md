@@ -1,1 +1,1 @@
-Simple docker compose for Laravel
+Sample docker compose for Laravel
